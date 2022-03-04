@@ -36,5 +36,5 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /><a href="#Trismegistos#5546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Trismegistos#5546" /></a>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devops-victor&theme=blue-green" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devops-vic&theme=blue-green" />
 </div>
